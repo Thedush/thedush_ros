@@ -1,9 +1,19 @@
-wheel position is adjusted by changing 
+
+enable/add the tf in rviz
+tf will show the joints in 3 color  
+
+Align the model , goto file---> save config to lock the rviz screen , so that the next when you open it will be in the same state
+
+this color is only for joint 
+x- red
+y- blue
+z-green
 
 
-orientation in link 
 
-and position in joints
+1. align the joint position to the required position
+
+2. align the link position on the joint position
 
 
 
